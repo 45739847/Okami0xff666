@@ -4,7 +4,7 @@
 
 ```kotlin
 object **Okami ラコステ** {
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+ val acknowledgements = "Programmer and Game Developer"
  
  val primarySkillset = "ALGUMAS LINGUAGENS"
  val languages = listOf("C#", "Php", "JavaScript", "Kotlin", "React") 
