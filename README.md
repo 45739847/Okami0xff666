@@ -3,7 +3,7 @@
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
 ```C#
-public classOkami ラコステ (){
+public class Okami ラコステ (){
     var e = "Programmer and Game Developer";
  
     var langs = "ALGUMAS LINGUAGENS";
