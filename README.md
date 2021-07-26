@@ -2,28 +2,29 @@
 
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
-```kotlin
-object **Okami ラコステ** {
- val acknowledgements = "Programmer and Game Developer"
+```C#
+public class Okami ラコステ {
+    string e = "Programmer and Game Developer";
  
- val primarySkillset = "ALGUMAS LINGUAGENS"
- val languages = listOf("C#", "Php", "JavaScript", "Kotlin", "React") 
-
+    string langs = "ALGUMAS LINGUAGENS";
+    string[] l = new string[5] {"C#", "Php", "JavaScript", "Kotlin", "React"};
 }
 ```
 
 ## **Linguagens e Ferramentas:**  
 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 
 ## **GitHub Estatísticas**
@@ -36,8 +37,13 @@ object **Okami ラコステ** {
 [instagram]: https://www.instagram.com/okami_mks/
 <br>
 
-#### Rede Sociais!
+## **Rede Sociais!**
 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
+• <a href="https://t.me/OkamiMks">Telegram</a><br>
+• <a href="https://twitter.com/OkamiMwaree">Twitter</a><br>
+• <a href="https://www.instagram.com/okami_mks/">Instagram</a><br>
+
+## **☕ Donates:**
+• Paypal: OkamiMks@protonmail.com <br>
+• Bitcoin <br>
+  └>monero: 4BCs7HmRzP27tVUCavkCQAgLcjkB3MRHjhBoH4gjxJ2wEjVWRyjFAx2JpGsjoK5P6PKpmyQ9UyovKQ5WkYfj6uxG8KuJZYD 
