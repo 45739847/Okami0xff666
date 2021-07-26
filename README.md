@@ -46,4 +46,5 @@ public class Okami ラコステ {
 ## **☕ Donates:**
 • Paypal: OkamiMks@protonmail.com <br>
 • Bitcoin <br>
-  └>monero: 4BCs7HmRzP27tVUCavkCQAgLcjkB3MRHjhBoH4gjxJ2wEjVWRyjFAx2JpGsjoK5P6PKpmyQ9UyovKQ5WkYfj6uxG8KuJZYD 
+  └>monero: 4BCs7HmRzP27tVUCavkCQAgLcjkB3MRHjhBoH4gjxJ2wEjVWRyjFAx2JpGsjoK5P6PKpmyQ9UyovKQ5WkYfj6uxG8KuJZYD <br><br>
+  <img width="120" alt="about" src="qr-code.png" align="right"><br>
