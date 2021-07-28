@@ -43,7 +43,10 @@ public class Okami ラコステ (){
 
 ## **☕ Donates:**
 • Paypal: OkamiMks@protonmail.com <br>
-• Paypal Donate: https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ <br>
+• Paypal Donate: https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url <br>
+• Patreon: https://www.patreon.com/OkamiMks
+• Ko_fi: https://ko-fi.com/okamimks
+• Liberapay: https://liberapay.com/Okami/
 • Bitcoin <br>
   └>monero: 4BCs7HmRzP27tVUCavkCQAgLcjkB3MRHjhBoH4gjxJ2wEjVWRyjFAx2JpGsjoK5P6PKpmyQ9UyovKQ5WkYfj6uxG8KuJZYD <br><br>
   <img width="120" alt="about" src="qr-code.png" align="right"><br>
