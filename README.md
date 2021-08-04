@@ -1,5 +1,10 @@
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Okami ラコステ
+[patreon-badge]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkamiMks%26type%3Dpatrons&style=flat-square
+[patreon-link]: https://www.patreon.com/OkamiMks
 
+[paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
+[paypal-link]: https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Okami ラコステ [![Patreon][patreon-badge]][patreon-link] [![Paypal][paypal-badge]][paypal-link]
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
 ```C#
@@ -49,4 +54,3 @@ public class Okami ラコステ (){
 • Liberapay: https://liberapay.com/Okami/ <br>
 • Bitcoin <br>
   └>monero: 4BCs7HmRzP27tVUCavkCQAgLcjkB3MRHjhBoH4gjxJ2wEjVWRyjFAx2JpGsjoK5P6PKpmyQ9UyovKQ5WkYfj6uxG8KuJZYD <br><br>
-  <img width="120" alt="about" src="qr-code.png" align="right"><br>
