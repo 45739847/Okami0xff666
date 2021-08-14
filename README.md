@@ -38,15 +38,15 @@ public class Okami ラコステ (){
 
 ## **Rede Sociais!**
 
-<a href="https://www.instagram.com/okami_mks/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><br>
-<a href="https://t.me/OkamiMks"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a><br>
-<a href="https://twitter.com/OkamiMwaree"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a><br>
+<a href="https://www.instagram.com/okami_mks/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://t.me/OkamiMks"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://twitter.com/OkamiMwaree"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 ## **☕ Donates:**
 **Paypal: OkamiMks@protonmail.com** <br> <br>
 <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="33" width="130" /></a>
 <a href="https://www.patreon.com/OkamiMks">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="33" width="130" /></a> <br>
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="33" width="130" /></a>
 <a href="https://ko-fi.com/okamimks"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="33" width="130"/></a>
 <a href="https://liberapay.com/Okami/">
     <img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" height="33" width="130" /></a> <br>
