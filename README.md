@@ -8,11 +8,11 @@
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
 ```C#
-public class Okami ラコステ (){
-    var e = "Programmer and Game Developer";
+class Okami ラコステ (){
+    string info = "Programmer and Game Developer";
  
     var langs = "ALGUMAS LINGUAGENS";
-    string[] l = new string[5] {"C#", "Php", "JavaScript", "Kotlin", "React"};
+    string[] l = new string[5] {"C#", "C++", "C", "Assembly"};
 }
 ```
 
