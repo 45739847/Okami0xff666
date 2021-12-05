@@ -4,7 +4,7 @@
 [paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
 [paypal-link]: https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url 
 
-<a href="https://discord.com/widget?id=914797672907563041&theme=dark"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner2"/></a>
+<a href="https://discord.gg/gtkZ4fjeVf"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner2"/></a>
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Okami ラコステ <br>[![Patreon][patreon-badge]][patreon-link] [![Paypal][paypal-badge]][paypal-link] <img alt="GitHub followers" src="https://img.shields.io/github/followers/OkamiMks?style=social" /> <a href="https://twitter.com/OkamiMwaree"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/OkamiMwaree?style=social"></a>
 <img align="right" width="320" src="https://i.imgur.com/ugWb6BU.gif" />
 
