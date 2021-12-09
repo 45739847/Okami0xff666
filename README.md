@@ -18,8 +18,7 @@ class Okami ラコステ (){
             Console.WriteLine("Langs {0}", string.Format(l[(int)i]));
     }}
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okamimks&theme=radical&show_icons=true) 
-![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=okamimks&hide=html&layout=compact&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okamimks&theme=radical&show_icons=true) ![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=okamimks&hide=html&layout=compact&theme=radical) 
 
 ## **Rede Sociais!**
 
