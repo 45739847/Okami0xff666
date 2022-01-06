@@ -20,11 +20,6 @@ class Okami ラコステ (){
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okamimks&theme=radical&show_icons=true)![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=okamimks&hide=html&layout=compact&theme=radical) 
 
-## **Rede Sociais!**
-
-<a href="https://t.me/OkamiMks"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://twitter.com/OkamiMwaree"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
 ## **☕ Donates:**
 help our projects by making a donation, all the money raised is used for new projects
 
