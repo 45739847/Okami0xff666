@@ -99,7 +99,7 @@ int main() {
   </a>
 </a>
 </p>
-
+<img src="https://activity-graph.herokuapp.com/graph?username=okamimks&theme=react-dark" alt="drawing" width="800"/>
 <h3 align="center">Sobre mim:</h3>
 
 <p align="center">
