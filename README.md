@@ -25,6 +25,7 @@ int main() {
     return 0;
 }
 ``` 
+<br>
 <img src="https://i.imgur.com/2Lja89L.gif" width="300" align="left">
 
 | C/C++                            | c#                  | Assembly        |  
