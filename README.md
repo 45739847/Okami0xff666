@@ -35,7 +35,7 @@ int main() {
 | Unity 3D                         | Unity 3D            | Mobile kernel   |
 | Cmake/Gtk/Qtt                    | Asp.Net Core        | Consoles kernel |
 | Graphic / Rendering components   | .NET nanoFramework  | Desktop kenel   |
-| Machine learning / Deep learning | MicroKernel OS      | Desktop kenel   | 
+| Machine learning / Deep learning | MicroKernel OS      | | 
 
   <p align="center">
    <a href="">
