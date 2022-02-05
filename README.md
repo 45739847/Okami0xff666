@@ -9,7 +9,7 @@
 [![Patreon][patreon-badge]][patreon-link] 
 [![Paypal][paypal-badge]][paypal-link] <img alt="GitHub followers" src="https://img.shields.io/github/followers/OkamiMks?style=social" /> <a href="https://twitter.com/OkamiMwaree"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/OkamiMwaree?style=social"></a>
 
-<a  href="https://discord.gg/gtkZ4fjeVf"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
+<a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
 ```C++
 using namespace Okami チム;
