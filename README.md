@@ -20,7 +20,7 @@ int main() {
     const char *langs[4] = { "C", "C++", "C#", "Assembly" };
     char tech[5] = { "Unreal", "Unity", "OpenGL", "Vulkan", "DirectX" };
     
-    // Server:   https://discord.gg/qykf8wk9Sz;
+    // Server:   https://discord.gg/5dZPVytKnn;
     // Telegram: https://t.me/mksDecode
     return 0;
 }
