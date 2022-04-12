@@ -1,20 +1,12 @@
-[patreon-badge]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkamiMks%26type%3Dpatrons&style=flat-square
-[patreon-link]: https://www.patreon.com/OkamiMks
-
-[paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
-[paypal-link]: https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url 
-
-[![Patreon][patreon-badge]][patreon-link] 
-[![Paypal][paypal-badge]][paypal-link] <img alt="GitHub followers" src="https://img.shields.io/github/followers/OkamiMks?style=social" /> <a href="https://twitter.com/OkamiMwaree"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/OkamiMwaree?style=social"></a>
-
-## ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Okamiチム&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Okami%20チム&fontSize=90&animation=fadeIn&fontAlignY=38&desc=22yo%20Software%20and%20Game%20Developer&descAlignY=51&descAlign=62)
+<div style="width: 10px;"></div>
 <a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
 ```C++
 using namespace Okami チム;
 
 int main() {
-    char info[128] = "Creator of graphics engines and hardware acceleration components";
+    char info[128] = "Creator of Graphics Engines and Hardware acceleration";
 
     const char *langs[4] = { "C", "C++", "C#", "Assembly" };
     char tech[5] = { "Unreal", "Unity", "OpenGL", "Vulkan", "DirectX" };
@@ -24,6 +16,24 @@ int main() {
     return 0;
 }
 ``` 
+<div align="center">
+    <a href="https://www.patreon.com/OkamiMks">
+        <img alt="Patreon donate"
+             src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkamiMks%26type%3Dpatrons&style=flat-square">
+    </a> 
+    <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url">
+        <img alt="Paypal donate"
+             src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square">
+    </a>
+    <a href"https://github.com/OkamiMks?tab=followers">
+        <img alt="GitHub followers" 
+             src="https://img.shields.io/github/followers/OkamiMks?style=social" />
+    </a>
+    <a href="https://twitter.com/OkamiMwaree">
+        <img alt="Twitter Follow" 
+             src="https://img.shields.io/twitter/follow/OkamiMwaree?style=social">
+    </a>
+</div><br>
 <br>
 <img src="https://i.imgur.com/2Lja89L.gif" width="300" align="left">
 
