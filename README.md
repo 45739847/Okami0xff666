@@ -3,6 +3,7 @@
 <a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
 ```C++
+#include <iostream>
 using namespace Okami チム;
 
 int main() {
