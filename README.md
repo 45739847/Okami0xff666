@@ -4,14 +4,14 @@
 
 ```C++
 #include <iostream>
-
+#include <stdio.h>
 using namespace Okami チム;
 
 int main() {
     char info[128] = "Software Engineer and Machine Learning";
 
     char *langs[4] = { "C", "C++", "C#", "Assembly" };
-    char tech[5]   = { "Unreal", "Unity", "OpenGL", "Vulkan", "DirectX" };
+    char tech[5] = { "Unreal", "Unity", "OpenGL", "Vulkan", "DirectX" };
     
     // Server:   https://discord.gg/5dZPVytKnn;
     // Telegram: https://t.me/mksDecode
