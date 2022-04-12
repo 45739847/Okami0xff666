@@ -5,7 +5,7 @@
 ```C++
 #include <iostream>
 #include <stdio.h>
-using namespace Okami チム;
+using namespace std::Okami チム;
 
 int main() {
     char info[128] = "Software Engineer and Machine Learning";
