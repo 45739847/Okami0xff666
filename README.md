@@ -6,7 +6,7 @@
 using namespace Okami チム;
 
 int main() {
-    char info[128] = "Creator of Graphics Engines and Hardware acceleration";
+    char info[128] = "Software Engineer and Machine Learning";
 
     const char *langs[4] = { "C", "C++", "C#", "Assembly" };
     char tech[5] = { "Unreal", "Unity", "OpenGL", "Vulkan", "DirectX" };
@@ -16,6 +16,7 @@ int main() {
     return 0;
 }
 ``` 
+<div style="width: 10px;"></div>
 <div align="center">
     <a href="https://www.patreon.com/OkamiMks">
         <img alt="Patreon donate"
