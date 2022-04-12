@@ -36,6 +36,10 @@ int main() {
         <img alt="Twitter Follow" 
              src="https://img.shields.io/twitter/follow/OkamiMwaree?style=social">
     </a>
+    <a href="https://visitor-badge.glitch.me">
+        <img alt="Visitors"
+             src="https://visitor-badge.glitch.me/badge?page_id=OkamiMks.visitor-badge" />
+    </a>
 </div><br>
 <br>
 <img src="https://i.imgur.com/2Lja89L.gif" width="300" align="left">
