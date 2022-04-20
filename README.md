@@ -85,7 +85,6 @@ int main() {
       <img src="https://github.com/get-icon/geticon/blob/master/icons/clojure.svg" alt="vscode" width="40" height="40"/>
    </a>
 </p>
-
 <h4 align="center">
 
 <p align="center">
@@ -105,17 +104,19 @@ int main() {
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/okamimks">
     <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=okamimks&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
+      src="https://github-profile-trophy.vercel.app/?username=okamimks&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
   </a>
 </a>
 </p>
+
 <img src="https://activity-graph.herokuapp.com/graph?username=okamimks&theme=react-dark" alt="drawing" width="800"/>
+
+![Metrics](https://metrics.lecoq.io/OkamiMks?template=classic&languages=1&isocalendar=1&achievements=1&discussions=1&lines=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=C%2C%20C%2B%2B%2C%20Assembly&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FSao_Paulo)
+
 <h3 align="center">Sobre mim:</h3>
 
 <p align="center">
