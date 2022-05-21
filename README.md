@@ -26,6 +26,7 @@
 
 ```C++
 #include <iostream>
+#include <stdio.h>
 using namespace std::Okami チム;
 
 int main() {
@@ -36,8 +37,10 @@ int main() {
     
     // Server:   https://discord.gg/5dZPVytKnn;
     // Telegram: https://t.me/mksDecode
-    return 0; }
+    return 0; 
+    }
 ``` 
+<br>
   <p align="center">
    <a href="">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
