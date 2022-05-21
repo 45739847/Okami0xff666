@@ -1,13 +1,31 @@
 <img src="https://i.imgur.com/5XG3bRq.png" width="280">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:494345,100:0e0e0e&height=200&section=header&text=Okami%20チム&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
-
+<div align="left">
+    <a href"https://github.com/OkamiMks?tab=followers">
+        <img alt="GitHub followers" 
+             src="https://img.shields.io/github/followers/OkamiMks?style=social" />
+    </a>
+    <a href="https://visitor-badge.glitch.me">
+        <img alt="Visitors"
+             src="https://visitor-badge.glitch.me/badge?page_id=OkamiMks.visitor-badge" />
+    </a>
+    <a href="https://www.patreon.com/OkamiMks">
+        <img alt="Patreon donate"
+             src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkamiMks%26type%3Dpatrons&style=flat-square">
+    </a> 
+    <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url">
+        <img alt="Paypal donate"
+             src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square">
+    </a>
+    <a href="https://twitter.com/OkamiMwaree">
+        <img alt="Twitter Follow" 
+             src="https://img.shields.io/twitter/follow/OkamiMwaree?style=social">
+    </a>
+</div>
 <div style="width: 10px;"></div>
 <a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
 ```C++
 #include <iostream>
-#include <stdio.h>
 using namespace std::Okami チム;
 
 int main() {
@@ -18,46 +36,8 @@ int main() {
     
     // Server:   https://discord.gg/5dZPVytKnn;
     // Telegram: https://t.me/mksDecode
-    return 0;
-}
+    return 0; }
 ``` 
-<div style="width: 10px;"></div>
-<div align="center">
-    <a href="https://www.patreon.com/OkamiMks">
-        <img alt="Patreon donate"
-             src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkamiMks%26type%3Dpatrons&style=flat-square">
-    </a> 
-    <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url">
-        <img alt="Paypal donate"
-             src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square">
-    </a>
-    <a href"https://github.com/OkamiMks?tab=followers">
-        <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/OkamiMks?style=social" />
-    </a>
-    <a href="https://twitter.com/OkamiMwaree">
-        <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/OkamiMwaree?style=social">
-    </a>
-    <a href="https://visitor-badge.glitch.me">
-        <img alt="Visitors"
-             src="https://visitor-badge.glitch.me/badge?page_id=OkamiMks.visitor-badge" />
-    </a>
-</div><br>
-<br>
-
-<img src="https://i.imgur.com/2Lja89L.gif" width="300" align="left">
-
-
-| C/C++                            | Assembly        |  R                       |
-| -------------------------------- | --------------- | ------------------------ |
-| A.I                              | x86             | Data Science             |
-| Unreal engine                    | Arm64           | Machine Learning         |
-| Cmake/Gtk/Qt                     | Consoles kernel | Computational Statistics |
-| Graphic / Rendering components   | Desktop kenel   | Computer vision          |
-| Machine learning / Deep learning | MicroKernel OS  |                          |
-
-
   <p align="center">
    <a href="">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
