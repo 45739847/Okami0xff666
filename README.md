@@ -44,14 +44,14 @@ int main() {
 <br>
 <img src="https://i.imgur.com/2Lja89L.gif" width="300" align="left">
 
-| C/C++                            | c#                  | Assembly        |  
-| -------------------------------- | ------------------- | --------------- |
-| A.I                              | .NET                |  x86            | 
-| Unreal engine                    | Windows form        | Arm64           |
-| Unity 3D                         | Unity 3D            | Mobile kernel   |
-| Cmake/Gtk/Qtt                    | Asp.Net Core        | Consoles kernel |
-| Graphic / Rendering components   | .NET nanoFramework  | Desktop kenel   |
-| Machine learning / Deep learning | MicroKernel OS      | | 
+| C/C++                            | Assembly        |  
+| -------------------------------- | --------------- |
+| A.I                              | x86             | 
+| Unreal engine                    | Arm64           |
+| Unity 3D                         | Mobile kernel   |
+| Cmake/Gtk/Qt                     | Consoles kernel |
+| Graphic / Rendering components   | Desktop kenel   |
+| Machine learning / Deep learning | microKernel OS  |
 
   <p align="center">
    <a href="">
