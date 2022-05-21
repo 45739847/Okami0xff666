@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Okami%20チム&fontSize=60&animation=fadeIn&fontAlignY=38&desc=22yo%20Software%20and%20Game%20Developer&descAlignY=51&descAlign=62)
+<img src="https://i.imgur.com/5XG3bRq.png" width="280">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:494345,100:0e0e0e&height=200&section=header&text=Okami%20チム&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
+
 <div style="width: 10px;"></div>
 <a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
@@ -42,16 +45,18 @@ int main() {
     </a>
 </div><br>
 <br>
+
 <img src="https://i.imgur.com/2Lja89L.gif" width="300" align="left">
 
-| C/C++                            | Assembly        |  
-| -------------------------------- | --------------- |
-| A.I                              | x86             | 
-| Unreal engine                    | Arm64           |
-| Unity 3D                         | Mobile kernel   |
-| Cmake/Gtk/Qt                     | Consoles kernel |
-| Graphic / Rendering components   | Desktop kenel   |
-| Machine learning / Deep learning | microKernel OS  |
+
+| C/C++                            | Assembly        |  R                       |
+| -------------------------------- | --------------- | ------------------------ |
+| A.I                              | x86             | Data Science             |
+| Unreal engine                    | Arm64           | Machine Learning         |
+| Cmake/Gtk/Qt                     | Consoles kernel | Computational Statistics |
+| Graphic / Rendering components   | Desktop kenel   | Computer vision          |
+| Machine learning / Deep learning | MicroKernel OS  |                          |
+
 
   <p align="center">
    <a href="">
