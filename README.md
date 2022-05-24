@@ -1,7 +1,10 @@
-<h3 align="center">
-    <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
-    Developer community
-</h3>
+<a href="https://discord.gg/5dZPVytKnn">
+    <h3 align="center">
+        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
+        Software Developers Community
+    </h3>
+    <p align="center">We bring together people with skills in computer science<br>data engineering, hard sciences, software developers, game dev, and much more...</p>
+</a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png" width="175" />
@@ -21,11 +24,8 @@
         <img alt="Discord server" 
              src="https://img.shields.io/discord/914797672907563041?colorA=1e1e28&colorB=c6aae8&label=Discord&logo=discord&logoColor=white&style=for-the-badge">
     </a>
-</div>
-    <a href="https://visitor-badge.glitch.me">
-        <img alt="Visitors"
-             src="https://visitor-badge.glitch.me/badge?page_id=OkamiMks.visitor-badge" />
-    </a>
+</div><br>
+
 <div style="width: 10px;"></div>
 <a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
