@@ -6,11 +6,6 @@
     <p align="center">We bring together people with skills in computer science<br>data engineering, hard sciences, software developers, game dev, and much more...</p>
 </a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png" width="175" />
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/night.png" width="175" />
-</p>
-
 <div align="center">
     <a href"https://github.com/OkamiMks?tab=followers">
         <img alt="GitHub followers" 
