@@ -77,18 +77,26 @@ int main() {
 
 <p align="center">
   <a href="https://github.com/okamimks">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=okamimks&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api?username=OkamiMks&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
+  </a>
+    
+  <a href="https://github.com/okamimks">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=OkamiMks&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
   </a>
   <a href="https://github.com/okamimks">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=okamimks&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=OkamiMks&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
+  </a>
+    <a href="https://github.com/okamimks">
+    <img align="center"
+         height="150em"
+         src="https://activity-graph.herokuapp.com/graph?username=OkamiMks&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
   </a>
 </p>
 
