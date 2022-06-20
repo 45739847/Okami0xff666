@@ -97,6 +97,6 @@ int main() {
 </div>
 
 <h6 align="center">
-    0x8D6417aaF093087d66786D0C365C1DEf4Ab48793 - BTC Metamask<br><br><br>
+    43oAX3sowsZZwdUfQFc2zVPTf9msrnm6jV48dCUJxJEdYe9AQ9kyiPP399egjhqkbmE4CSoT6VsAcRaNrv9KAe1s5a8czob - BTC Monero<br><br><br>
     <a href="https://discord.gg/5dZPVytKnn"><img src="https://i.imgur.com/45TzgnD.png" width="50px" /></a>
  </h6>
