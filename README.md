@@ -3,7 +3,6 @@
         <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
         Software Developers Community
     </h3>
-    <p align="center">We bring together people with skills in computer science<br>data engineering, hard sciences, software developers, game dev, and much more...</p>
 </a>
 
 <div align="center">
