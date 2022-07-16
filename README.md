@@ -31,7 +31,7 @@ using namespace std::Okami チム;
 int main() {
     char info[128] = "Mathematics and Computer science λ";
 
-    char *langs[4] = { "C", "C++", "C#", "Assembly" };
+    char *langs[4] = { "C", "C++", "C#", "R", "Assembly" };
     char tech[4] = { "UE4", "OpenGL", "Vulkan", "DirectX" };
     
     // Server:   https://discord.gg/5dZPVytKnn;
