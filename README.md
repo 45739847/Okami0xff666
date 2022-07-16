@@ -29,7 +29,7 @@
 using namespace std::Okami チム;
 
 int main() {
-    char info[128] = "Software Engineer and Machine Learning";
+    char info[128] = "Mathematics and Computer science λ";
 
     char *langs[4] = { "C", "C++", "C#", "Assembly" };
     char tech[4] = { "UE4", "OpenGL", "Vulkan", "DirectX" };
