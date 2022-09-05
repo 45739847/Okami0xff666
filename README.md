@@ -90,10 +90,6 @@ int main() {
         <img alt="Patreon donate"
              src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkamiMks%26type%3Dpatrons&style=for-the-badge&logoColor=eceff4&colorA=1e1e28&colorB=c9cbff">
     </a> 
-    <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url">
-        <img alt="Paypal donate"
-             src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=for-the-badge&colorA=1e1e28&colorB=f2cecf">
-    </a>
     <a href="https://ko-fi.com/okamimks">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&colorA=1e1e28&colorB=bee4ed" /></a>
 <a href="https://liberapay.com/Okami/">
