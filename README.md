@@ -26,7 +26,7 @@
 ```C++
 #include <iostream>
 #include <stdio.h>
-using namespace std::Okami チム;
+using namespace std::Okami 0xff666;
 
 int main() {
     char info[128] = "Mathematics and Computer science λ";
