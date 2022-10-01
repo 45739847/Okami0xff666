@@ -6,14 +6,6 @@
 </a>
 
 <div align="center">
-    <a href"https://github.com/OkamiMks?tab=followers">
-        <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/OkamiMks?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
-    </a>
-    <a href="https://twitter.com/OkamiMwaree">
-        <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/OkamiMwaree?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
-    </a>
     <a href="https://discord.gg/5dZPVytKnn">
         <img alt="Discord server" 
              src="https://img.shields.io/discord/914797672907563041?colorA=1e1e28&colorB=c6aae8&label=Discord&logo=discord&logoColor=white&style=for-the-badge">
