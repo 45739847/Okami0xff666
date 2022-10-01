@@ -85,16 +85,6 @@ int main() {
 
 # **☕ Donates:**
 <h3 align="center">Contribute an amount to help fund new projects</h3>
-<div align="center">
-<a href="https://www.patreon.com/Okami0xff666">
-        <img alt="Patreon donate"
-             src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkami0xff666%26type%3Dpatrons&style=for-the-badge&logoColor=eceff4&colorA=1e1e28&colorB=c9cbff">
-    </a> 
-    <a href="https://ko-fi.com/Okami0xff666">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&colorA=1e1e28&colorB=bee4ed" /></a>
-<a href="https://liberapay.com/Okami/">
-    <img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=white&colorA=1e1e28&colorB=c6aae8" /></a>
-</div>
 
 <h6 align="center">
     4AYvVJe8f1EDBHT4BEFUX2KQBMjS8unaAGG3zKBQxfapHWMfdkeocB7SVdGPY3Y8gv4hT9jUBr94UV9eTHbkNQh3C5gf9BZ - BTC Monero<br><br><br>
