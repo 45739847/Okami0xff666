@@ -1,17 +1,3 @@
-<a href="https://discord.gg/5dZPVytKnn">
-    <h3 align="center">
-        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
-        Software Developers Community
-    </h3>
-</a>
-
-<div align="center">
-    <a href="https://discord.gg/5dZPVytKnn">
-        <img alt="Discord server" 
-             src="https://img.shields.io/discord/914797672907563041?colorA=1e1e28&colorB=c6aae8&label=Discord&logo=discord&logoColor=white&style=for-the-badge">
-    </a>
-</div><br>
-
 <div style="width: 10px;"></div>
 <a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
@@ -74,11 +60,3 @@ int main() {
   </a>
 </a>
 </p>
-
-# **☕ Donates:**
-<h3 align="center">Contribute an amount to help fund new projects</h3>
-
-<h6 align="center">
-    4AYvVJe8f1EDBHT4BEFUX2KQBMjS8unaAGG3zKBQxfapHWMfdkeocB7SVdGPY3Y8gv4hT9jUBr94UV9eTHbkNQh3C5gf9BZ - BTC Monero<br><br><br>
-    <a href="https://discord.gg/5dZPVytKnn"><img src="https://i.imgur.com/45TzgnD.png" width="50px" /></a>
- </h6>
